@@ -1,0 +1,40 @@
+site_name: Internal Documentation
+site_url: https://andreilgeorgescu.github.io/mytest
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  plugins:
+    - search
+    - blog
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.top
+    - navigation.footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/solvex-software
+      name: Solve(x) on GitHub
+copyright: Copyright &copy; Solve(x) Systems LLC

@@ -1,0 +1,11 @@
+{
+  "image": "ghcr.io/andreilgeorgescu/workflow-writing:1",
+  "postAttachCommand": "mkdocs serve",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": {
+      "label": "Documentation",
+      "onAutoForward": "openBrowserOnce"
+    }
+  }
+}
