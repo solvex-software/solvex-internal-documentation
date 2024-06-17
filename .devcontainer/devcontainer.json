@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/andreilgeorgescu/workflow-writing:1",
+  "image": "ghcr.io/andreilgeorgescu/devcontainer-writing:1",
   "postAttachCommand": "mkdocs serve",
   "forwardPorts": [8000],
   "portsAttributes": {
