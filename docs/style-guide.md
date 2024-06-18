@@ -44,3 +44,5 @@
    - `[x | x <- [1..], odd x]` over `[x | x <- [1, 3..]]`
 1. Prefer laziness to eagerness
 1. Whenever you are folding, try to fold over a semiring, monoid (0+) or semigroup (1+) if possible.
+1. never pattern match over bool, instead use guards
+1. Never use if-this-then-else. instead use guards.
