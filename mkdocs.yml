@@ -1,5 +1,5 @@
 site_name: Solve(x) Documentation
-site_url: https://andreilgeorgescu.github.io/solvex-internal-documentation/
+site_url: https://solvex-software.github.io/solvex-internal-documentation/
 theme:
   name: material
   palette:
