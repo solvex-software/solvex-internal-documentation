@@ -5,6 +5,7 @@
 | Business Management | Andrei, Kyle |
 | CloudOps | Kyle, Will |
 | Database | Andrei, Kyle, Will |
+| Data Visualization | Will |
 | Design | Galen, Kyle |
 | DevEx | Andrei |
 | DevOps | Andrei, Kyle |
