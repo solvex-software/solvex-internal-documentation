@@ -4,3 +4,4 @@
 - Pure Functions & Referential Transparency
 - FP vs. OOP
 - Algebras
+- Combinators
