@@ -19,6 +19,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -33,3 +35,4 @@ theme:
 plugins:
   - search
   - blog
+repo_url: https://github.com/solvex-software/solvex-internal-documentation
