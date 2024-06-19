@@ -1,4 +1,5 @@
-# Technical
+# Blog Ideas
+## Technical
 - Structural Recursion
 - Iteration Levels
 - Pure Functions & Referential Transparency
