@@ -6,7 +6,7 @@
 | CloudOps | Kyle, Will |
 | Database | Andrei, Kyle, Will |
 | Data Visualization | Will |
-| Design | Galen, Kyle |
+| Design | Galen, Kyle, Will |
 | DevEx | Andrei |
 | DevOps | Andrei, Kyle |
 | Domain Modelling | Andrei, Kyle |
