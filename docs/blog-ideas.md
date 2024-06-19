@@ -5,3 +5,4 @@
 - FP vs. OOP
 - Algebras
 - Combinators
+- Writing Semantically Meaningful Code
