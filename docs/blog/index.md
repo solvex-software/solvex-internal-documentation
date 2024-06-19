@@ -1,2 +1,2 @@
-# Blog
+# Meeting Notes
 
