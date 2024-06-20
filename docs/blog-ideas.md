@@ -1,4 +1,5 @@
 # Blog Ideas
+
 ## Technical
 - Structural Recursion
 - Iteration Levels
@@ -7,3 +8,4 @@
 - Algebras
 - Combinators
 - Writing Semantically Meaningful Code
+- Maps vs. Functions
