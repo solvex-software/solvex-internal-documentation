@@ -46,3 +46,4 @@
 1. Whenever you are folding, try to fold over a semiring, monoid (0+) or semigroup (1+) if possible.
 1. never pattern match over bool, instead use guards
 1. Never use if-this-then-else. instead use guards.
+1. Don't use don't care patterns if you can help it because you want to maintain exhaustiveness.
