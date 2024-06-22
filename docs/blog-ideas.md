@@ -25,3 +25,4 @@
     - Thus using ADTs is almost always a better choice
     - ADTs add clarity, pattern matching, type safety, etc...
     - Tuple/Either can be seen as anonymous Product/Sum Types
+- The expression problem
