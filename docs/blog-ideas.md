@@ -14,6 +14,7 @@
     - Allows you to start to see and understand more complex abstractions
     - Think more logically
     - Not always good (ie: Nothing to abstract, just one thing)
+    - allows for easier property based testing
 - Why use combinators?
     - We focus on functions
     - Basically pipes/railroads to how we want to process data
