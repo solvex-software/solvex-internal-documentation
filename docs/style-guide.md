@@ -49,3 +49,5 @@
 1. Don't use don't care patterns if you can help it because you want to maintain exhaustiveness.
 1. Never use tuple or either, use ADT instead. 
 1. always use records for product types 
+1. Never use type synonyms
+1. always use records even for a single field (extension to auto create)
