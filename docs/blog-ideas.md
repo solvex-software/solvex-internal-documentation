@@ -18,3 +18,5 @@
     - We focus on functions
     - Basically pipes/railroads to how we want to process data
     - Elegant code that removes cruft and gets to the point
+- Using the right type vs maybe for partial functions
+    - good examples: triples and division with 0
