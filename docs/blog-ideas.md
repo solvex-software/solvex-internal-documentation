@@ -26,3 +26,12 @@
     - ADTs add clarity, pattern matching, type safety, etc...
     - Tuple/Either can be seen as anonymous Product/Sum Types
 - The expression problem
+- Unit testing is not enough
+- Property based testing removes the need for code coverage
+- Removing uneccessary overhead
+    - .gitignore
+    - code coverage
+    - CI/CD
+    - Database creation/management/orm
+    - dependencies
+    - linter/formatter
