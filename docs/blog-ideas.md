@@ -36,3 +36,4 @@
     - Database creation/management/orm
     - dependencies
     - linter/formatter
+    - config schemas
