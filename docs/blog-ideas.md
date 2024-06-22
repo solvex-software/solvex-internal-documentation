@@ -37,3 +37,4 @@
     - dependencies
     - linter/formatter
     - config schemas
+    - versioning
