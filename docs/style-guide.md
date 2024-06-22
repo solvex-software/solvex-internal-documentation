@@ -47,3 +47,5 @@
 1. never pattern match over bool, instead use guards
 1. Never use if-this-then-else. instead use guards.
 1. Don't use don't care patterns if you can help it because you want to maintain exhaustiveness.
+1. Never use tuple or either, use ADT instead. 
+1. always use records for product types 
