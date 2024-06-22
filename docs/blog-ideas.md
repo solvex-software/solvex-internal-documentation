@@ -38,3 +38,4 @@
     - linter/formatter
     - config schemas
     - versioning
+- Parametric vs Adhoc Polymorphism
