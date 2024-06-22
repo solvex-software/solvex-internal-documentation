@@ -20,3 +20,8 @@
     - Elegant code that removes cruft and gets to the point
 - Using the right type vs maybe for partial functions
     - good examples: triples and division with 0
+- Using Unit, Void, Either, or Tuple are code smells
+    - They are the fundamental building blocks of ADTs
+    - Thus using ADTs is almost always a better choice
+    - ADTs add clarity, pattern matching, type safety, etc...
+    - Tuple/Either can be seen as anonymous Product/Sum Types
