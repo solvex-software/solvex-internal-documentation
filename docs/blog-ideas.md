@@ -63,3 +63,4 @@
     - Monotonicity
     - Consistency
     - Conservation
+- Data structure layer vs ADT layer(s) vs Domain Layer vs Frontend
