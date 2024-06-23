@@ -9,6 +9,7 @@
 - Combinators
 - Writing Semantically Meaningful Code
 - Maps vs. Functions
+- Monad Comprehensions
 - Why use abstractions/typeclasses?
     - Leads to less things to remember in the same language and with other languages
     - Allows you to start to see and understand more complex abstractions
