@@ -44,3 +44,21 @@
     - config schemas
     - versioning
 - Parametric vs Adhoc Polymorphism
+- Properties
+    - Associative
+    - Commutative
+    - Distributive over ...
+    - Reflexive
+    - Transitive
+    - Identity
+    - Symmetric
+    - Inverse
+    - Zero/One
+    - Idempotent
+    - Complement Law
+    - Reversibility
+    - Involution
+    - Boundary Conditions
+    - Monotonicity
+    - Consistency
+    - Conservation
