@@ -28,7 +28,7 @@
     - Tuple/Either can be seen as anonymous Product/Sum Types
 - The expression problem
 - Unit testing is not enough
-- Property based testing removes the need for code coverage
+- Property based testing removes the need for code coverage and documents code with useful properties
 - Removing uneccessary overhead
     - .gitignore
     - code coverage
