@@ -33,6 +33,11 @@
     - .gitignore
     - code coverage
     - CI/CD
+- the problem with prototyping/argument for static typing/doing things ahead rather than later
+- the problem with abusing typs (either/maybe)
+- the problem with either/tuple/union/void
+- ADTs are a semiring
+- the benefit of standards/style guides/removing variables/overhead
     - Database creation/management/orm
     - dependencies
     - linter/formatter
