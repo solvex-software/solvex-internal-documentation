@@ -51,3 +51,4 @@
 1. always use records for product types 
 1. Never use type synonyms
 1. always use records even for a single field (extension to auto create)
+1. Good rule of thumb is that Maybe should only be used because the result type not because of an input type 
