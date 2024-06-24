@@ -53,3 +53,4 @@
 1. always use records even for a single field (extension to auto create)
 1. Good rule of thumb is that Maybe should only be used because the result type not because of an input type 
 1. use the highest level of abstraction you can get away with
+1. Always prove laws of instances with property-based testing
