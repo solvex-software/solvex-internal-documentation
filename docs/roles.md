@@ -1,7 +1,7 @@
 | Role    | Person |
 | -------- | ------- |
 | Architecture | Andrei |
-| Backend | Andrei, Kyle |
+| Backend | Andrei, Kyle, Will |
 | Blogging | Andrei, Galen, Kyle, Will |
 | Business Management | Andrei, Kyle |
 | CloudOps | Kyle, Will |
