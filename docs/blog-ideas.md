@@ -65,3 +65,4 @@
     - Conservation
 - Data structure layer vs ADT layer(s) vs Domain Layer vs Frontend
 - Static vs. Dynamic environment and closures
+- Using accumulators/stack/laziness
