@@ -56,3 +56,6 @@
 1. Always prove laws of instances with property-based testing
 1. create monoids too even if greater abstractions exist???
 1. Stick to always using curried functions
+1. Always try to pass the "smaller" of something before the "larger" to take advantage of laziness
+  - If you have two maybes you want to check using an alternative, always have the first one be a quicker evaluation
+  - If you have an "OR" or "AND" between two expressions, always have the quicker to evaluate expression on the left hand side.
