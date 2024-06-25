@@ -55,3 +55,4 @@
 1. use the highest level of abstraction you can get away with
 1. Always prove laws of instances with property-based testing
 1. create monoids too even if greater abstractions exist???
+1. Stick to always using curried functions
