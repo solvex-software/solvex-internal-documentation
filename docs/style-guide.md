@@ -60,6 +60,7 @@
   - If you have two maybes you want to check using an alternative, always have the first one be a quicker evaluation
   - If you have an "OR" or "AND" between two expressions, always have the quicker to evaluate expression on the left hand side.
 1. Keep typeclasses limited to only what needs to be overriden by each instance
+2. Each module should only contain one adt or typeclass
 ## Naming
 1. Spell out acronyms?
 1. Data types should be named in order of most specific to least
