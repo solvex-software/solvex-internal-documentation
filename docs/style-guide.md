@@ -75,3 +75,4 @@
    - foldLazyRight
    - mapParallel
 1. Camelcase is always used for functions and pascal case for types/constructors
+1. due to the expression problem and cyclic module dependencies, put all instances in the type class modules
