@@ -62,6 +62,9 @@
 1. Keep typeclasses limited to only what needs to be overriden by each instance
 2. Each module should only contain one adt or typeclass
 3. Use a re-exporting scheme in the library???
+4. Consistent naming scheme
+    - an unordered list is called a bag or a multiset but use "UnorderedList" instead.
+    - the "default" case should have the regular name ie: "a "List" is an ordered list but just leave its name, a Set is an unordered set, etc..."
 ## Naming
 1. Spell out acronyms?
 1. Data types should be named in order of most specific to least
