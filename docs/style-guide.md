@@ -76,3 +76,6 @@
    - mapParallel
 1. Camelcase is always used for functions and pascal case for types/constructors
 1. due to the expression problem and cyclic module dependencies, put all instances in the type class modules
+1. functions should be verbs 
+1. constants should be nouns
+1. predicates should be `isAdjective` sometimes with an At or Of etc at the end
