@@ -67,6 +67,7 @@
     - the "default" case should have the regular name ie: "a "List" is an ordered list but just leave its name, a Set is an unordered set, etc..."
 1. typeclass methods are not an API, they are the bare minimum requirements for a type to be able to join that Typeclass (along with laws). thus, some typeclass methods are not meant for normal programming usage like `compare` in Ord or to/from Generics.
 1. if importing a library that isn't ours, use namespacing
+1. binary operators should always be infix? if so then always define associativity and precedence
 ## Naming
 1. Spell out acronyms?
 1. Data types should be named in order of most specific to least
