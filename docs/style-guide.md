@@ -69,6 +69,7 @@
 1. if importing a library that isn't ours, use namespacing
 1. binary operators should always be infix? if so then always define associativity and precedence
 1. every associative binary function should be defined in terms of a group and then a named fold made for it (ex: Min semigroup defines min function which defines minimum function)
+1. name Typeclasses in a way that makes sense to the context. functor is a noun because it's referring to a type function...Option is itself a functor. most things should be adjectives though and relate to fundamental properties or mathematical abstractions
 ## Naming
 1. Spell out acronyms?
 1. Data types should be named in order of most specific to least
