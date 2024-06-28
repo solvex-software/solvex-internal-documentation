@@ -69,3 +69,4 @@
 - Choosing between different folds
 - anatomy of a program (expression vs value), evaluation vs execution, interpreter vs transpiler vs compiler vs byte code
 - data vs codata
+- benefits of injective and bijective. you are either given what you want directly as an argument, you get it for free from a typeclass, or can convert to a type with the right typeclass
