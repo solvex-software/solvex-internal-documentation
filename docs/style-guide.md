@@ -2,6 +2,7 @@
 ``
 
 1. Never comment code except when the code is written in an unorthodox way for a good reason (ex: It is written in a way that is more efficient than normal due to requirements)
+1. avoid fractionals that aren't rational
 1. No magic numbers except where anonymous functions makes just as much sense
 1. Code should be written in the most elegant way possible; it is the job of the compiler to deal with performance
    - Only optimize/go lower level if after profiling/benchmarking your code isn't as efficient as it should be.
