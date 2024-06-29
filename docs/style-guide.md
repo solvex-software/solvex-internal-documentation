@@ -71,6 +71,7 @@
 1. binary operators should always be infix? if so then always define associativity and precedence
 1. every associative binary function should be defined in terms of a group and then a named fold made for it (ex: Min semigroup defines min function which defines minimum function)
 1. name Typeclasses in a way that makes sense to the context. functor is a noun because it's referring to a type function...Option is itself a functor. most things should be adjectives though and relate to fundamental properties or mathematical abstractions
+1. use left/right associative function depending on if you need that associativity, otherwise default. use lazy if you can make use of short circuiting and any potential space leaks is worth it. use strict if you don't want space leaks or have to traverse the entire thing or require both values to be evaluated fully. otherwise use strict 
 ## Naming
 1. Spell out acronyms?
 1. Data types should be named in order of most specific to least
