@@ -1,6 +1,7 @@
 `Prefer`:
 ``
 
+1. always hide the value constructor and getters of new types. use to/from instead
 1. Never comment code except when the code is written in an unorthodox way for a good reason (ex: It is written in a way that is more efficient than normal due to requirements)
 1. avoid fractionals that aren't rational
 1. No magic numbers except where anonymous functions makes just as much sense
