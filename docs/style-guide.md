@@ -3,6 +3,7 @@
 
 1. always hide the value constructor and getters of new types. use to/from instead
 1. name things based on what they require, not what they lack. ex: maximumNonEmpty better than maximumUmbounded
+1. modules should contain only things specific to them. ie: foldlazy is specific to catamorphic but foldMonoid is specific to monoids and foldToMonoidSurjective is specific to surjective
 1. Never comment code except when the code is written in an unorthodox way for a good reason (ex: It is written in a way that is more efficient than normal due to requirements)
 1. avoid fractionals that aren't rational
 1. No magic numbers except where anonymous functions makes just as much sense
