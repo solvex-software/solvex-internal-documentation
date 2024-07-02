@@ -1,6 +1,8 @@
 `Prefer`:
 ``
 
+1. Named functions should be used in composition style code, while operators in application style code (do notation/IO).
+1. Every operator should be defined in terms of it's named counterpart.
 1. always hide the value constructor and getters of new types. use to/from instead
 1. name things based on what they require, not what they lack. ex: maximumNonEmpty better than maximumUmbounded
 1. modules should contain only things specific to them. ie: foldlazy is specific to catamorphic but foldMonoid is specific to monoids and foldToMonoidSurjective is specific to surjective
