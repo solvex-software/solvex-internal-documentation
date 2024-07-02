@@ -5,6 +5,7 @@
 1. name things based on what they require, not what they lack. ex: maximumNonEmpty better than maximumUmbounded
 1. modules should contain only things specific to them. ie: foldlazy is specific to catamorphic but foldMonoid is specific to monoids and foldToMonoidSurjective is specific to surjective
 1. Never comment code except when the code is written in an unorthodox way for a good reason (ex: It is written in a way that is more efficient than normal due to requirements)
+2. Show typeclass should only be used for debugging. Do not use it for displaying things to users, even with a TUI. Doing so is coupling debugging desires with ui desires
 1. avoid fractionals that aren't rational
 1. No magic numbers except where anonymous functions makes just as much sense
 1. Code should be written in the most elegant way possible; it is the job of the compiler to deal with performance
