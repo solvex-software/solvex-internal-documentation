@@ -1,7 +1,7 @@
 `Prefer`:
 ``
 
-1. Named functions should be used in composition style code, while operators in application style code (do notation/IO).
+1. Named functions should be used in composition style code, while operators in application style code (do notation/IO). operators are also good for sections or pattern matching
 1. Every operator should be defined in terms of it's named counterpart.
 1. always hide the value constructor and getters of new types. use to/from instead
 1. name things based on what they require, not what they lack. ex: maximumNonEmpty better than maximumUmbounded
