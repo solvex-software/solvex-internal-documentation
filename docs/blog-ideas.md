@@ -71,3 +71,22 @@
 - data vs codata
 - benefits of injective and bijective. you are either given what you want directly as an argument, you get it for free from a typeclass, or can convert to a type with the right typeclass
 - lifting vs applying vs composing
+
+## IT, Operations, Business Related
+- The difference between an MVP and a prototype
+- Functional programming use cases in fintech series? (fill out later)
+- Devops automations for faster and cheaper development
+- On-prem servers vs cloud hosted vs serverless
+- Is Kubernetes worth it?
+- The problem with no-code tools
+- Stop hiring javascript devs
+- The quickest way to build cross platform apps
+- Freelancers vs dev shops vs in-house devs
+- Pros and cons of hiring overseas developers
+- Managing AWS costs as a startup
+- How to maintain your app (almost) for free
+- How to onboard a new developer in 30 minutes
+- AWS vs Azure vs Google Cloud
+- Stop using React Native
+- How much should an MVP cost?
+- The importance of server-side logic for mobile apps
