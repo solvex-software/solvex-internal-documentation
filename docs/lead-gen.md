@@ -1,3 +1,3 @@
-# SolveX Lead Gen
+# Lead Gen
 
 ## Channels

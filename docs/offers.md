@@ -1,3 +1,3 @@
-# SolveX Offers
+# Offers
 
 ## Offer Ideas
